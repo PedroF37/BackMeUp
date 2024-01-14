@@ -7,4 +7,4 @@ Projeto usa as bibliotecas:
 * `libfileutils` -> https://github.com/PedroF37/FileUtils
 * `libdirutils` -> https://github.com/PedroF37/DirUtils
 #
-Para compilar projeto: `clang -Wall -Wextra --pedantic -std=c99 -larchive -lfileutils -ldirutils -o bmu bmu.c`
+Para compilar projeto: `$ clang -Wall -Wextra --pedantic -std=c99 -larchive -lfileutils -ldirutils -o bmu bmu.c`
