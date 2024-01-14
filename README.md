@@ -1,5 +1,5 @@
-# Projeto de arquivamento e backup em C
-
+# BackMeUp
+## Projeto simples de arquivamento e backup em C
 Projeto cria um arquivamento compactado com com gzip|bzip2|xz de um diretório passado como argumento.
 #
 Projeto usa as bibliotecas:
